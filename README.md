@@ -5,7 +5,7 @@ Hello I'm KIID4
 currently studying **data** <br>
 I'm interested in **data science** and **data analysis** <br><br>
 
-<h4> <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white"/> [Velog] (https://velog.io/@kiid4/series) </h4>
+<h4> [<img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white"/>] (https://velog.io/@kiid4/series) </h4>
 
 <h2> 📚 Tech Stack </h2>
 
