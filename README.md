@@ -5,6 +5,7 @@ Hello I'm KIID4
 currently studying **data** <br>
 I'm interested in **data science** and **data analysis** <br><br>
 
+[<img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white"/>](https://velog.io/@kiid4/series)
 
 <h2> 📚 Tech Stack </h2>
 
@@ -17,7 +18,3 @@ I'm interested in **data science** and **data analysis** <br><br>
 ### 📂 Collaboration
 > <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white">
 
-<br>
-
-### 📂 Study Record
-> [<img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white"/>](https://velog.io/@kiid4/series)
