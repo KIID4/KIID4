@@ -20,4 +20,4 @@ I'm interested in **data science** and **data analysis** <br><br>
 <br>
 
 ### 📂 Study Record
-[<img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white"/>](https://velog.io/@kiid4/series)
+> [<img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white"/>](https://velog.io/@kiid4/series)
