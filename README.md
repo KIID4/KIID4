@@ -18,3 +18,9 @@ I'm interested in **data science** and **data analysis** <br><br>
 ### 📂 Collaboration
 > <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white">
 
+### ✨ Career.
+> 2024.7.29 ~ 2024.8.25 Data Science 코칭 스터디
+> 네이버 커넥트
+> 
+> 2024.10.07 ~ 2025.04.01 Data Scientist 3기 << **진행중**
+> 모두의 연구소
