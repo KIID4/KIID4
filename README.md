@@ -21,8 +21,8 @@ I'm interested in **data science** and **data analysis** <br><br>
 <br>
 
 ### ✨ Career
-> 2024.7.29 ~ 2024.8.25 Data Science 코칭 스터디
+> 2024.7.29 ~ 2024.8.25 Data Science 코칭 스터디 <br>
 > 네이버 커넥트
 > 
-> 2024.10.07 ~ 2025.04.01 Data Scientist 3기 << **진행중**
+> 2024.10.07 ~ 2025.04.01 Data Scientist 3기 << **진행중** <br>
 > 모두의 연구소
