@@ -29,5 +29,5 @@ I'm interested in **data science** and **data analysis** <br><br>
 
 <br>
 
-### Certificate
+### ✨ Certificate
 > SQLD
