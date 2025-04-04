@@ -26,3 +26,8 @@ I'm interested in **data science** and **data analysis** <br><br>
 > 
 > 2024.10.07 ~ 2025.04.01 Data Scientist 3기 <br>
 > 모두의 연구소
+
+<br>
+
+### Certificate
+> SQLD
